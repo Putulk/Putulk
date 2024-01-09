@@ -2,7 +2,7 @@
 - 👀 I’m interested in sofware development. 
 - 🌱 I’m currently working. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...putul@racloop.com
+- 📫 How to reach me ...putulkumari0997@gmail.com
 
 <!---
 Putulk/Putulk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
