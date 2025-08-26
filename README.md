@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Putulk
-- 👀 I’m interested in sofware development. 
-- 🌱 I’m currently working. 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Putulkumari
+- 👀 I’m interested in software development(JAVA, SpringBoot, Python) and interested in learning new tech. 
+- 🌱 I’m currently working as Software Engineer in Whilter.AI. 
+- 💞️ I’m always available to collaborate on any project that suits my profile and in which I can learn more about new concept and tech.
 - 📫 How to reach me ...putul11gupta@gmail.com
 
 <!---
