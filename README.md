@@ -116,12 +116,6 @@
 
 </div>
 
-### Most Used Languages
-
-<div align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Putulk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
-
 ### Contribution Graph
 
 <div align="center">
@@ -129,12 +123,6 @@
 </div>
 
 <br/>
-
-## Popular Repositories
-
-<div align="center">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=Putulk&repo=Google-TTS&theme=tokyonight&hide_border=true"/>
-</div>
 
 <br/>
 
