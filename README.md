@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/89597576?v=4" width="150" height="150" style="border-radius:50%;"/>
-
 # Hi, I'm Putul 👋
 ### Backend Engineer · Java & Spring Boot · Cloud Systems
 
@@ -17,14 +15,27 @@
 
 <br/>
 
+<table>
+<tr>
+<td width="220" valign="top" align="center">
+
+<img src="https://avatars.githubusercontent.com/u/89597576?v=4" width="180" style="border-radius:50%;"/>
+
+</td>
+<td valign="top">
+
 ## About Me
 
-- 🔧 Backend Engineer with **4+ years** of experience building distributed, high-throughput systems
+- 🔧 Backend Engineer with **~4 years** of experience building distributed, high-throughput systems
 - 🏗️ Currently building and hardening a **GCP-based bulk image rendering platform** — handling large-scale async jobs, VM failure recovery, and checkpoint/resume pipelines
 - 🧠 Deep focus on **Java / Spring Boot microservices**, event-driven architecture with **Kafka**, and service-to-service comms over **gRPC**
 - ☁️ Comfortable across both **AWS** and **GCP** — from compute and storage to messaging and image processing
 - 📈 Currently sharpening system design and Java internals for backend interviews
 - 💬 Open to conversations on backend architecture, distributed systems, and cloud infra
+
+</td>
+</tr>
+</table>
 
 <br/>
 
