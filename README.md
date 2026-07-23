@@ -134,8 +134,6 @@
 
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=Putulk&repo=Google-TTS&theme=tokyonight&hide_border=true"/>
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=Putulk&repo=charp&theme=tokyonight&hide_border=true"/>
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=Putulk&repo=charp2.0&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br/>
