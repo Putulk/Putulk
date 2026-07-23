@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Hi,%20I'm%20Putul%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20|%20Java%20%26%20Spring%20Boot%20|%20Cloud%20Systems&descAlignY=55&descSize=18" width="100%"/>
+# Hi, I'm Putul 👋
+### Backend Engineer · Java & Spring Boot · Cloud Systems
 
 <a href="https://www.linkedin.com/in/putul-kumari-98711b169/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -70,16 +71,15 @@
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Putulk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Putulk&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Putulk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
+
+---
+
+*Backend Engineer · Java · Spring Boot · Kafka · GCP · AWS*
+
 </div>
