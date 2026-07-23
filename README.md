@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/89597576?v=4" width="150" height="150" style="border-radius:50%;"/>
+
 # Hi, I'm Putul 👋
 ### Backend Engineer · Java & Spring Boot · Cloud Systems
 
