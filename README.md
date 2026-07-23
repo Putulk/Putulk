@@ -17,7 +17,7 @@
 
 ## About Me
 
-- 🔧 Backend Engineer with **~4 years** of experience building distributed, high-throughput systems
+- 🔧 Backend Engineer with **4+ years** of experience building distributed, high-throughput systems
 - 🏗️ Currently building and hardening a **GCP-based bulk image rendering platform** — handling large-scale async jobs, VM failure recovery, and checkpoint/resume pipelines
 - 🧠 Deep focus on **Java / Spring Boot microservices**, event-driven architecture with **Kafka**, and service-to-service comms over **gRPC**
 - ☁️ Comfortable across both **AWS** and **GCP** — from compute and storage to messaging and image processing
