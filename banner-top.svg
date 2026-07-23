@@ -1,0 +1,13 @@
+<svg viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" fill="url(#bg)"/>
+  <path d="M0,160 C200,220 400,110 600,150 C800,190 1000,120 1200,160 L1200,220 L0,220 Z" fill="#ffffff" opacity="0.06"/>
+  <path d="M0,180 C220,130 420,210 640,170 C860,130 1020,200 1200,175 L1200,220 L0,220 Z" fill="#ffffff" opacity="0.10"/>
+  <text x="600" y="95" font-family="Segoe UI, Verdana, sans-serif" font-size="46" font-weight="700" fill="#ffffff" text-anchor="middle">Hi, I'm Putul 👋</text>
+  <text x="600" y="140" font-family="Segoe UI, Verdana, sans-serif" font-size="20" fill="#dbeafe" text-anchor="middle">Backend Engineer · Java &amp; Spring Boot · Cloud Systems</text>
+</svg>
