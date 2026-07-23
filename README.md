@@ -102,7 +102,7 @@
 ## GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Putulk&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy-winning.vercel.app/?username=Putulk&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </div>
 
 <br/>
@@ -111,7 +111,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Putulk&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Putulk&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Putulk&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
@@ -119,13 +119,7 @@
 ### Most Used Languages
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Putulk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
-
-### Contribution Graph
-
-<div align="center">
-<img src="https://ghchart.rshah.org/2563eb/Putulk" alt="Putulk's GitHub contribution graph" width="90%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Putulk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 <br/>
@@ -133,7 +127,7 @@
 ## Popular Repositories
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Putulk&repo=Google-TTS&theme=tokyonight&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Putulk&repo=Google-TTS&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br/>
