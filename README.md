@@ -19,7 +19,7 @@
 <tr>
 <td width="220" valign="top" align="center">
 
-<img src="https://avatars.githubusercontent.com/u/89597576?v=4" width="180" style="border-radius:50%;"/>
+<img src="./avatar-circle.png" width="180" height="180"/>
 
 </td>
 <td valign="top">
@@ -79,10 +79,36 @@
 
 <br/>
 
-## GitHub Stats
+## Featured Work
+
+| Project | Stack | Highlights |
+|---|---|---|
+| 🖼️ Bulk Image Rendering Pipeline | Node.js · Java · Konva · GCE | High-volume async rendering with checkpoint/resume, memory-leak fixes, and silent-hang detection |
+| ⚙️ VM Image Automation | GCP · Bash | Pre-baked machine images cutting per-boot install time, with failure-detection shutdown scripts |
+| 📊 Distributed Task Monitoring Service | Java · Spring Boot | Heartbeat-based monitoring across ~30M+ documents in the rendering pipeline |
+| 🌀 Perspective Text Overlay | Konva · JavaScript | Homographic warp feature for realistic text-on-image rendering |
+| 🗣️ [Google-TTS](https://github.com/Putulk/Google-TTS) | Java | Google Text-to-Speech integration |
+| 📈 Traffic Demand Prediction | Python · LightGBM | Kaggle-style competition pipeline with temporal holdout validation |
+
+<br/>
+
+## GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Putulk&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Putulk&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Putulk&theme=tokyonight&hide_border=true" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Putulk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br/><br/>
+
+**Contribution Graph**
+<br/>
+<img src="https://ghchart.rshah.org/2563eb/Putulk" alt="Putulk's GitHub contribution graph" width="90%"/>
+
 </div>
 
 <br/>
