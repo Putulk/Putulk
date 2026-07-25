@@ -2,6 +2,9 @@
 
 <img src="./banner-top.svg" width="100%"/>
 
+<a href="https://putul-portfolio.onrender.com">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/putul-kumari-98711b169/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
